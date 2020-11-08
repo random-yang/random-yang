@@ -21,3 +21,9 @@
 <a href="mailto:decoderyang@gmail.com">
   <img alt="A" src="https://img.shields.io/static/v1?logo=gmail&logoColor=rgb(255,255,255)&label=&message=decoderyang@gmail.com&color=rgb(209,72,54)&style=for-the-badge" />
 </a>
+
+</br>
+</br>
+</br>
+
+Currently focus on **data vis**, **2D renderer**, **shader program**.
