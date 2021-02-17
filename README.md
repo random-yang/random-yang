@@ -26,4 +26,4 @@
 </br>
 </br>
 
-Currently focus on **data vis**, **2D renderer**, **shader program**.
+Currently focus on **data viz**, **renderer**, **shader program**, **basic compiler**.
