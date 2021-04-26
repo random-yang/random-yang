@@ -26,4 +26,4 @@
 </br>
 </br>
 
-Currently focus on **data viz**, **renderer**, **shader program**, **basic compiler**.
+I am crazy about **Generative Art** & **Graphic Design** & **Math Visualization**.
