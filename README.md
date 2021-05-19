@@ -9,7 +9,7 @@
 <a width=107 href="https://dribbble.com/randomyang">
   <img alt="B" src="https://img.shields.io/static/v1?logo=dribbble&logoColor=rgb(255,255,255)&label=&message=dribbble&color=rgb(234,76,137)&style=for-the-badge" />
 </a>
-<a href="https://twitter.com/JHWviuDZH8bcvuM">
+<a href="https://twitter.com/_randomyang">
   <img alt="A" src="https://img.shields.io/static/v1?logo=twitter&logoColor=rgb(255,255,255)&label=&message=twitter&color=rgb(29,161,242)&style=for-the-badge" />
 </a>
 <a href="https://www.figma.com/@randomyang">
