@@ -30,4 +30,4 @@
 
 I am crazy about **Generative Art** & **Graphic Design** & **Math Visualization**.
 
-Currently, working on **creative tool**.
+Currently, working on **Text Rendering**.
