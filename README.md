@@ -25,6 +25,6 @@
 </br>
 </br>
 
-I am crazy about **Generative Art** & **Graphic Design** & **Math Visualization**.
+I am crazy about **Generative Art** & **Graphic Design** & **Math Visualization** & **Audio Viz**.
 
 Currently, working on **Text Rendering**.
