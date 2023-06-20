@@ -1,4 +1,4 @@
-<img width="6109" alt="banner" src="https://github.com/random-yang/random-yang/assets/25839518/adbcbe2f-0042-4976-b70f-4c00d8586fb7">
+<img width="4055" alt="banner" src="https://github.com/random-yang/random-yang/assets/25839518/b507cd0f-9e04-4062-90f8-f09809b28adb">
 
 <a width=102 href="https://codepen.io/randomyang">
   <img alt="A" src="https://img.shields.io/static/v1?logo=codepen&logoColor=rgb(255,255,255)&label=&message=codepen&color=rgb(0,0,0)&style=for-the-badge" />
