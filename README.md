@@ -1,4 +1,4 @@
-![Frame 11](https://user-images.githubusercontent.com/25839518/161397533-0208e944-8531-45cd-b0e6-a014639fe761.png)
+<img width="6203" alt="Frame 1" src="https://github.com/random-yang/random-yang/assets/25839518/b60b52ac-1256-4eaa-aeaa-666077aad38e">
 
 <a href="https://www.randomyang.top">
   <img width="207px" alt="A" src="https://img.shields.io/static/v1?label=blog&message=randomyang.top&color=rgb(235,198,90)&style=for-the-badge" />
