@@ -1,8 +1,5 @@
-<img width="6203" alt="Frame 1" src="https://github.com/random-yang/random-yang/assets/25839518/b60b52ac-1256-4eaa-aeaa-666077aad38e">
+<img width="6109" alt="banner" src="https://github.com/random-yang/random-yang/assets/25839518/adbcbe2f-0042-4976-b70f-4c00d8586fb7">
 
-<a href="https://www.randomyang.top">
-  <img width="207px" alt="A" src="https://img.shields.io/static/v1?label=blog&message=randomyang.top&color=rgb(235,198,90)&style=for-the-badge" />
-</a>
 <a width=102 href="https://codepen.io/randomyang">
   <img alt="A" src="https://img.shields.io/static/v1?logo=codepen&logoColor=rgb(255,255,255)&label=&message=codepen&color=rgb(0,0,0)&style=for-the-badge" />
 </a>
@@ -15,16 +12,10 @@
 <a href="https://www.figma.com/@randomyang">
   <img alt="A" src="https://img.shields.io/static/v1?logo=figma&logoColor=rgb(255,255,255)&label=&message=figma&color=rgb(242,78,30)&style=for-the-badge" />
 </a>
-<a href="https://github.com/random-yang">
-  <img alt="A" src="https://img.shields.io/static/v1?logo=github&logoColor=rgb(255,255,255)&label=&message=github&color=rgb(24,23,23)&style=for-the-badge" />
-</a>
-<a href="mailto:decoderyang@gmail.com">
-  <img alt="A" src="https://img.shields.io/static/v1?logo=gmail&logoColor=rgb(255,255,255)&label=&message=decoderyang@gmail.com&color=rgb(209,72,54)&style=for-the-badge" />
-</a>
 
 </br>
 </br>
 
 I am crazy about **Generative Art** & **Graphic Design** & **Math Visualization** & **Audio Viz**.
 
-Currently, working on **Text Rendering**.
+Currently, working on **Text Engine**.
