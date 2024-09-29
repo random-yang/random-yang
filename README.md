@@ -16,6 +16,4 @@
 </br>
 </br>
 
-I am crazy about **Generative Art** & **Graphic Design** & **Math Visualization** & **Audio Viz**.
-
-Currently, working on **Text Engine**.
+Fulltime working on **Text Engine** for a few years.
