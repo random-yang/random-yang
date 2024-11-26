@@ -17,3 +17,5 @@
 </br>
 
 Fulltime working on **Text Engine** for a few years.
+
+JS / C++ / Swift
