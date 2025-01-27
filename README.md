@@ -1,5 +1,6 @@
 <p align="center">Full-time engagement in the development of the Text Engine for several years. </p>
-<p align="center"><img width="90%" alt="banner" src="https://github.com/random-yang/random-yang/assets/25839518/b507cd0f-9e04-4062-90f8-f09809b28adb"></p>
+<p align="center"><img width="90%" alt="banner" src="https://github.com/user-attachments/assets/fea58890-1846-42d0-ad2f-2e851fe9b8ad"></p>
+
 
 <p align="center">Some visual tries back in the early days.</p>
 <p align="center"><a href="https://codepen.io/randomyang">
