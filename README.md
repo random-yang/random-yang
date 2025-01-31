@@ -12,4 +12,4 @@
   <img alt="A" src="https://img.shields.io/static/v1?logo=figma&logoColor=rgb(255,255,255)&label=&message=figma&color=rgb(242,78,30)&style=for-the-badge" />
 </a></p>
 
-<p align="center">Language: language is tools for me.</p>
+<p align="center">Language: language are tools for me.</p>
