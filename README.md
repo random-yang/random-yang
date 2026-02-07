@@ -1,4 +1,4 @@
-### Hi, I'm RandomYang
+### ☁️  Hi, I'm RandomYang
 
 #### What I do
 - Leading and contributing to an **AI creative tool** built on infinite canvas.
